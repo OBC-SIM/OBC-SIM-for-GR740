@@ -1,10 +1,10 @@
-##Overview
+## Overview
  Renode does not natively support GR740 emulation.
  This repository provides a GR740 platform description (`.repl`) for creating a GR740 emulation machine.
 
 ---
 
-##Usage
+## Usage
 1. Start Renode
 2. Run the following commands in the Renode monitor
 ```shell
