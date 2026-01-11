@@ -2,6 +2,8 @@
 set -e
 set -u
 
+## Renode 테스트 스크립트 파일
+
 # this is to support running renode-test from an external directory and via a symlink
 ROOT_PATH="$(cd $(dirname $(readlink -f $0 2>/dev/null || echo $0)); echo $PWD)"
 
