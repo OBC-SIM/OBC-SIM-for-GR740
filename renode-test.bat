@@ -1,5 +1,5 @@
 @echo off
-REM We change the below line to "set CONTEXT=package" during package generation
+:: We change the below line to "set CONTEXT=package" during package generation
 set "CONTEXT=source"
 set "SCRIPTDIR=%~dp0"
 
