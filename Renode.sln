@@ -1,4 +1,4 @@
-
+# # Renode 프로젝트를 빌드 및 개발하기 위해 코어, 플러그인, 테스트 프로젝트들을 통합 관리하는 Visual Studio 솔루션 파일입니다
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renode", "src\Renode\Renode.csproj", "{5A7EF2B0-889A-488A-B296-97AF33791772}"
