@@ -27,6 +27,6 @@ In most cases this should be a fairly straightforward process and provide full r
 If you find it difficult to create such a repository, please provide all the necessary details in the text of this PR.
 Please keep in mind that this route may require more back-and-forth communication to verify your contribution.
 
-### Additional information
+## Additional information
 
 Please add all information you feel to be relevant and are not clearly visible in the reproduction repo.
