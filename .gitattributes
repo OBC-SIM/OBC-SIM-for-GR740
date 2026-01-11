@@ -1,1 +1,2 @@
+# C# 파일에 csharp 전용 diff 규칙 적용
 *.cs diff=csharp
