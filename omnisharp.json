@@ -1,3 +1,4 @@
+# C# Roslyn 분석기 및 editorconfig 포맷팅 활성화 설정
 {
     "RoslynExtensionsOptions": {
         "enableAnalyzersSupport": true
